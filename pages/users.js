@@ -1,4 +1,4 @@
-import User from './components/user'
+import User from '../components/user'
 
 export default function UsersList({users}) {
     return ( <div>
